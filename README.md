@@ -1,19 +1,46 @@
-Movies on the Tip is an online movie manager whose responsibility is to take care of all the activities a user can do on this portal.
-User Stories
-1. As a user I should be able to search the movies type:-
-- coming soon
-- Movies in theaters
-- top rated Indian
-- top rated movies
-2. As a user I should be able to see all the movie's basic information (poster, title) in the selected options
-3. As a user I should be able to see the details of the movie if I select the movie.
-4. As a user I should be able to add the movie to the favorite list by clicking on the favorite button
-5. As a user I should get the option to view my favorite list.
-6. As a user I should be able to remove a movie from the favorite list.
-Instructions
-1. The JSON data is provided along with the problem statement as a data.json file and the corresponding images are present in the img folder, however, you can use a third-party free API as well to get the data.
-2. You can choose the UI color combination/buttons and other props of your own choice.
-3. Follow the correct naming conventions and folder structure.
-4. UI should be responsive, and display proper messages of the operations wherever required.
-5. A sample project working demonstration is attached for your reference, however, you can be innovative and create the project in different template structure.
-6. You are required to submit the screen recording of the working project, the recorded video will also be a criterion to calculate the final marks. You can attach a drive link of the video along with the solution in a separate text file. Make the drive link public.
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
